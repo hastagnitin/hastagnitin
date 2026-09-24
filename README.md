@@ -4,7 +4,7 @@
 <h2 align="center">🏅 Cloud & DevOps Credentials</h2> <p align="center"> 🅰️ <a href="https://builder.aws.com/community/@hastagnitin?tab=badges">AWS Builder Profile</a> — badges & builds &nbsp;|&nbsp; 🐳 <a href="https://hub.docker.com/u/hastagnitin">Docker Hub</a> — published images </p>
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats</h2> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hastagnitin&theme=dark&fire=FF9900&ring=00A8E8&currStreakNum=FF9900" alt="Nitin's GitHub Streak" /> </div>
 🎯 Current Focus
-Deepening AWS, Terraform, Docker, Kubernetes and Jenkins for a remote DevOps internship
+Deepening AWS, Terraform, Docker, Kubernetes and Jenkins for a DevOps & Cloud internship
 Hands-on with CI/CD pipelines, infra-as-code, and cloud automation
 📦 Open Source Project
 
@@ -12,4 +12,4 @@ Hands-on with CI/CD pipelines, infra-as-code, and cloud automation
 
 bash
 pip install driftwatch-cli
-<div align="center"> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=FF9900&center=true&vCenter=true&width=500&lines=Automating+the+Cloud,+one+pipeline+at+a+time!;Infrastructure+as+Code,+not+chaos!;Deploy+often,+break+less!;Cloud+today,+cloud+tomorrow!;Let's+build+something+reliable!" alt="Typing SVG"/> </h1> </div>
+<div align="center"> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=22&duration=3200&color=FF9900&center=true&vCenter=true&width=600&lines=Automating+the+Cloud,+one+pipeline+at+a+time!;Infrastructure+as+Code,+not+chaos!;Deploy+often,+break+less!;Cloud+today,+cloud+tomorrow!;Let's+build+something+reliable!" alt="Typing SVG"/> </h1> </div>
