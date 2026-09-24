@@ -1,0 +1,14 @@
+<div align="center"> <h1>Hi 👋, I'm Nitin</h1> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd4OGZjb2c1MjluazAzdmZhM3c3MWVuNDA1eHF6dDZkMGZqNGE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="220" /> </div> <p align="center">B.Tech CSE student building towards a remote DevOps career — AWS · Terraform · Docker · Kubernetes · Jenkins</p>
+<h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2> <p align="center"> <a href="https://www.linkedin.com/in/nitin-gupta-197553331" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45"/> </a> <a href="https://github.com/hastagnitin" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="45"/> </a> <a href="https://hub.docker.com/u/hastagnitin" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" height="45"/> </a> <a href="https://builder.aws.com/community/@hastagnitin?tab=badges" target="_blank"> <img src="https://skillicons.dev/icons?i=aws" height="45"/> </a> </p>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages, Tools and Technologies</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux,bash,python,cpp,java" alt="Tech Stack Icons" /> </div>
+<h2 align="center">🏅 Cloud & DevOps Credentials</h2> <p align="center"> 🅰️ <a href="https://builder.aws.com/community/@hastagnitin?tab=badges">AWS Builder Profile</a> — badges & builds &nbsp;|&nbsp; 🐳 <a href="https://hub.docker.com/u/hastagnitin">Docker Hub</a> — published images </p>
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats</h2> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hastagnitin&theme=dark&fire=FF9900&ring=00A8E8&currStreakNum=FF9900" alt="Nitin's GitHub Streak" /> </div>
+🎯 Current Focus
+Building DriftWatch — an open-source IaC drift-detection CLI (Terraform ↔ live AWS), published on PyPI
+Deepening AWS, Terraform, Docker, Kubernetes and Jenkins for a remote DevOps internship
+Hands-on with CI/CD pipelines, infra-as-code, and cloud automation
+📬 Contact
+
+🔗 LinkedIn: nitin-gupta-197553331
+
+<div align="center"> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=FF9900&center=true&vCenter=true&width=450&lines=Automating+the+Cloud,+one+pipeline+at+a+time!;Let's+build+something+reliable!" alt="Typing SVG"/> </h1> </div>
